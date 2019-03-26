@@ -1,11 +1,15 @@
 {
-    "name": "stevebauman/log-reader",
+    "name": "komicho/log-reader",
     "description": "An easy log reader and management tool for Laravel 5",
     "tags": ["reader", "log reader", "log viewer", "log manager", "log", "logs", "laravel"],
     "authors": [
         {
             "name": "Steve Bauman",
             "email": "steven_bauman@outlook.com"
+        },
+        {
+            "name": "Karim Mohamed",
+            "email": "komicho1996@gmail.com"
         }
     ],
     "license": "MIT",
